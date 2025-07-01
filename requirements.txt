@@ -1,0 +1,9 @@
+scikit-learn==1.2.2
+scikit-image
+numpy==1.26.4
+unzip
+joblib
+pandas==1.5.3
+matplotlib
+natsort
+streamlit
